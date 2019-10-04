@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pmap2</string>
+    <string name="titulo1">Carrera:Ingeneria en sistemas computacionales. </string>
+    <string name="titulo2">Materia:Introducion a Dispositivos Moviles.</string>
+    <string name="titulo3">Trabajo:Practica2.</string>
+    <string name="titulo4">Profesor:De la O Martinez Victor Hugo.</string>
+    <string name="titulo5">Alumno:Meza Alarcón Pedro.</string>
+    <string name="titulo6">Grupo:7S11.</string>   <string name="titulo7">Matricula:166010008.</string>
+
+</resources>
